@@ -1,0 +1,58 @@
+<!--
+  This template loads for the 'tab.pet-detail' state (app.js)
+  'pet' is a $scope variable created in the PetCtrl controller (controllers.js)
+  The PetCtrl pulls data from the Pets service (service.js)
+  The Pets service returns an array of pet data
+-->
+<view title="'VeggieSetGo'">
+  <content has-header="true" padding="true" style="background-color:#F2F2ED">
+
+<div class="image-container">
+<a href="#tab/c/restaurant/{{ restaurant.id }}/photo"><img ng-src="http://veggiesetgo.com/wp-content/uploads/2013/11/3-square-cafe2.jpg"/></a></div>
+
+<div class="card">
+  <div class="item item-divider" style="padding:0;">
+  	<div class="main-title"><h2>{{ restaurant.name }}</h2></div><div class="artichokes"><img ng-src="img/chokes/artichoke-{{ restaurant.rating }}.png" /></div>
+  </div>
+  <div class="item item-text-wrap">
+<span class="address-main" style="color:#444;">{{ restaurant.address.street }}<br>{{ restaurant.address.city }},&nbsp;{{ restaurant.address.state }}&nbsp;{{ restaurant.address.zip }}</span><a href="#tab/c/restaurant/{{ restaurant.id }}/map"><img class="map-main" src="http://maps.googleapis.com/maps/api/staticmap?center={{ restaurant.address.street }},{{ restaurant.address.city }}{{ restaurant.address.state }}&zoom=15&size=318x100&maptype=roadmap&markers=color:blue%7Clabel:%7C{{ restaurant.address.street }},{{ restaurant.address.city }}{{ restaurant.address.state }}USA&sensor=false" \></a>
+  </div>
+  <div class="item item-icon-left item-text-wrap"><i class="icon ion-ios7-clock-outline"></i><ul><li ng-repeat="hours in restaurant.hours" style="float:left; padding-right:5px;"><p>{{ hours }}</p></li></ul></div>
+</div>
+
+<div class="list card">
+
+  <a ng-repeat="cuisine in restaurant.cuisines" href="#tab/cuisines/{{ cuisine.id }}" class="item item-icon-left">
+    <i class="icon ion-fork"></i>
+    {{ cuisine.cuisine }}
+  </a>
+
+  <a href="tel:{{ restaurant.phone }}" class="item item-icon-left">
+    <i class="icon ion-ios7-telephone"></i>
+    <p>{{ restaurant.phone }}</p>
+  </a>
+
+  <a href="http://{{ restaurant.website }}" class="item item-icon-left">
+    <i class="icon ion-ios7-world-outline"></i>
+    <p>{{ restaurant.website }}&nbsp;</p>
+  </a>
+
+  <a href="#restaurants/{{ restaurant.menu }}/menu" class="item item-icon-left">
+    <i class="icon ion-ios7-bookmarks"></i>
+    <p>View menu</p>
+  </a>
+
+</div>
+
+<div class="list card">
+
+  <p class="item"><strong>Parking: </strong> <span ng-repeat="parking in restaurant.parking">{{ parking }}{{$last ? '' : ', '}}</span></p>
+  <p class="item"><strong>Reservations: </strong> <span>{{ restaurant.reservations }}</span></p>
+  <p class="item"><strong>Take-Out: </strong> <span>{{ restaurant.takeout }}</span></p>
+  <p class="item"><strong>Delivery: </strong> <span>{{ restaurant.delivery }}</span></p>
+  <p class="item item-text-wrap"><strong>{{ restaurant.hint.intro }} Hint</strong>: {{ restaurant.hint.text }}</p>
+</div>
+<br><br>
+
+  </content>
+</view>

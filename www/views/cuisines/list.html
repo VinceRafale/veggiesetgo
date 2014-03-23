@@ -1,0 +1,10 @@
+<!--
+  This template loads for the 'tab.adopt' state (app.js)
+-->
+<view title="'Browse by Cuisine'">
+  <content has-header="true" has-tabs="true">
+    <div class="list">
+      <a class="item item-avatar" ng-repeat="cuisine in cuisines" type="item-text-wrap" href="#/tab/cuisines/{{ cuisine.id }}">{{ cuisine.cuisineName }}</a>
+    </div>
+  </content>
+</view>

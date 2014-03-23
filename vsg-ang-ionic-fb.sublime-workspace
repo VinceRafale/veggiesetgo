@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"firebase"
+			],
+			[
+				"cu",
+				"cuisine"
+			],
+			[
+				"restauran",
+				"restaurant"
+			],
+			[
+				"re",
+				"restaurant"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"Fi",
+				"Firebase"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"restau",
+				"restaurant"
+			],
+			[
+				"resta",
+				"restaurant"
+			],
+			[
+				"rest",
+				"restaurant"
+			],
+			[
+				"restaurant",
+				"restaurantId"
+			],
+			[
+				"view",
+				"view"
+			],
+			[
+				"fan",
+				"fantasyTeamId"
+			],
+			[
+				"fantas",
+				"fantasyTeam"
+			],
+			[
+				"leagues",
+				"Leagues"
+			],
+			[
+				"fant",
+				"fantasyTeamId"
+			],
+			[
+				"angul",
+				"angularFire"
+			],
+			[
+				"fants",
+				"fantasyTeam"
+			],
+			[
+				"fanta",
+				"fantasyTeams"
+			],
+			[
+				"own",
+				"ownerId"
+			],
+			[
+				"leage",
+				"leagueId"
+			],
+			[
+				"leag",
+				"leagues"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"auth",
+				"authRequired"
+			],
+			[
+				"ang",
+				"angularFire"
+			],
+			[
+				"pla",
+				"playerId"
+			],
+			[
+				"Fire",
+				"FireRef"
+			],
+			[
+				"angular",
+				"angularFireCollection"
+			],
+			[
+				"p",
+				"players"
+			],
+			[
+				"F",
+				"FBURL"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"leagu",
+				"leagueId"
+			],
+			[
+				"aut",
+				"authRequired"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/controllers/controllers.js",
+			"settings":
+			{
+				"buffer_size": 2205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/views/listings/list.html",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/config.js",
+			"settings":
+			{
+				"buffer_size": 1916,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/david.torstenson/Sites/thinkster-angular-tutorials/vsg-admin/app/views/restaurants/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/restaurants/view.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/restaurants/edit.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/restaurants/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/restaurantservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/restaurantcontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/app.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/leagueservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/firerefservices.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/categories.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/headercontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/header.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/default.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/index.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/config.js",
+		"/Users/david.torstenson/Sites/angular/angular-ionic-firebase/firebase-starter/upload.json",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/leagues/edit.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/loginservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/fantasyteams/view.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/leagues/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/leaguescontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/partials/positionselect.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/partials/nflteamselect.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/players/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/playercontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/fantasyteamservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/fantasyteams/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/fantasyteams/edit.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/fantasyteamcontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/playerservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/players/view.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/partials/limitselect.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/players/limitselect.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/nflcontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/services/nflservice.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/signincontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/js/controllers/signupcontroller.js",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/nfl/list.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/nfl/view.html",
+		"/Users/david.torstenson/Sites/thinkster angular tutorials/thinkster-firebase-tutorial/app/views/leagues/view.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/controllers/controllers.js",
+					"settings":
+					{
+						"buffer_size": 2205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/views/listings/list.html",
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/config.js",
+					"settings":
+					{
+						"buffer_size": 1916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}
